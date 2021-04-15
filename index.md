@@ -13,7 +13,7 @@ Alessandro Razza (U.Chile)<br/>
 Ana Mourão (CENTRA-IST)<br/>
 Ana Paulina-Afonso (CENTRA-IST)<br/>
 Antonia Morales-Garaffolo (U.Cádiz)<br/>
-Alberto Krone-Martins (Irvine)<br/>
+Alberto Krone-Martins (U.Cal-Irvine)<br/>
 Beatriz Pereira (CENTRA-IST)<br/>
 Claudia Gutiérrez (U.Turku)<br/>
 Francisco Förster (U.Chile)<br/>
