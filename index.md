@@ -7,7 +7,7 @@ CRISP is a multi-faceted project to study extinction towards supernovae (SNe) an
 </p>
 
 
-### Team and collaborators
+## Team and collaborators
 
 Alessandro Razza (U.Chile)<br/>
 Ana Mourão (CENTRA-IST)<br/>
@@ -27,7 +27,7 @@ Pedro Garcia (CENTRA-FCUL)<br/>
 Santiago González-Gaitán (CENTRA-IST)<br/>
 Thomas de Jaeger (U.Hawaii)<br/>
 
-### Projects
+## Projects
 
 
 - **ARGAS: Artifically Redshifting of Galaxies (PI: A. Paulina-Afonso)**: <br/>
@@ -101,7 +101,10 @@ We investigate if the dust reddening law, Rv, changes with phase of the evolutio
 </p>
 
 
-### Meetings
+## Meetings
 Some previous meetings:
 - [CRISPinho 2020](https://amusing-muse.github.io/crispinho2020/)
 - [CRISP 2020](https://amusing-muse.github.io/crisp2020/)
+
+## Acknowledgement
+CRISP is funded by FCT (PTDC/FIS-AST-31546/2017).
