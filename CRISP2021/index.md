@@ -1,7 +1,9 @@
-## Welcome to 2021 CRISP meeting
+# Welcome to 2021 CRISP meeting
 
-CRISP is a multi-faceted project to study extinction towards supernovae (SNe) and their environments though a variety of observational techniques including photometry, integral field spectroscopy and polarimetry of both SNe and their hosts, as well as machine learning tools and radiative transfer modeling.
+The 2021 [CRISP](https://gongsale.github.io/CRISP/) meeting gathers cool, friendly scientists from Portugal, Spain and other countries to work in different aspects of supernovae, their host galaxies, extinction, with methods like integral-field spectroscopy and polarization. CRISP is funded by the Fundação para a
+Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546]
 
-<p align="center">
-<img src="crisp_logo_cut.jpg" alt="alt text" width=300 height=200>
-</p>
+## Venue
+
+The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/peniche/) in Peniche, Portugal from the 14th to 18th of July, 2021.
+
