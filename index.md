@@ -20,7 +20,7 @@ Francisco Förster (U.Chile)<br/>
 João Duarte (CENTRA-IST)<br/>
 João Silvestre (CENTRA-IST)<br/>
 Joe Anderson (ESO)<br/>
-Lluis Galbany (U.Granada)<br/>
+Lluis Galbany (ICE-CSIC)<br/>
 Marko Stalevski (O.Belgrade)<br/>
 Majda Smole (O.Belgrade)<br/>
 Pedro Garcia (CENTRA-FCUL)<br/>
