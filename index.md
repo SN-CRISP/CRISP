@@ -88,7 +88,7 @@ Extended imaging polarization studies requires a full characterization of the in
 The scattering from the Moon in the sky produces a polarization pattern that needs to be corrected for when performing polarimetric observations in the night. We are investigating the observed pattern taken with FORS2-VLT data compared with single scattering and multiple scattering models.
 
 <p align="center">
-<img src="moonpol.jpg" alt="alt text" width=400 height=300>
+<img src="moonpol.jpg" alt="alt text" width=500 height=300>
 </p>
 
 - **Supernova polarization evolution (PI: A. Morales-Garoffolo)**:<br/>
