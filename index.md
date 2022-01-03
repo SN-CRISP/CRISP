@@ -49,9 +49,6 @@ We are obtaining for the first time a set of dust attenuation slopes for a cosmo
 
 - **Dust extinction laws of DES galaxies (PI: J. Gonçalves)**:<br/>
 We are obtaining for the first time a set of dust extinction laws for a cosmological sample of SNe Ia light-curves from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)). We use [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws. The method will be tested with simulations.
-<p align="center">
-<img src="prosp.jpg" alt="alt text" width=250 height=250>
-</p>
 
 - **Dust attenuation slope maps of AMUSING galaxies (PI: A. Razza)**:<br/>
 We will obtain maps of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
