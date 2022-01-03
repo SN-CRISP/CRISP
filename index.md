@@ -19,6 +19,7 @@ Claudia Gutiérrez (U.Turku)<br/>
 Francisco Förster (U.Chile)<br/>
 João Duarte (CENTRA-IST)<br/>
 João Silvestre (CENTRA-IST)<br/>
+João Gonçalves (CENTRA-IST)<br/>
 Joe Anderson (ESO)<br/>
 Lluis Galbany (ICE-CSIC)<br/>
 Marko Stalevski (O.Belgrade)<br/>
@@ -42,6 +43,12 @@ Type Ia SN cosmology has been essential in determining the accelerated expansion
 
 - **Dust attenuation slopes of DES galaxies (PI: J. Duarte)**:<br/>
 We are obtaining for the first time a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations.
+<p align="center">
+<img src="prosp.jpg" alt="alt text" width=250 height=250>
+</p>
+
+- **Dust extinction laws of DES galaxies (PI: J. Gonçalves)**:<br/>
+We are obtaining for the first time a set of dust extinction laws for a cosmological sample of SNe Ia light-curves from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)). We use [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws. The method will be tested with simulations.
 <p align="center">
 <img src="prosp.jpg" alt="alt text" width=250 height=250>
 </p>
