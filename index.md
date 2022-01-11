@@ -9,6 +9,7 @@ CRISP is a multi-faceted project to study extinction towards supernovae (SNe) an
 
 ## Team and collaborators
 
+Alejandro Yepes (U.Nacional-Colombia)<br/>
 Alessandro Razza (U.Chile)<br/>
 Ana Mourão (CENTRA-IST)<br/>
 Ana Paulina-Afonso (CENTRA-IST)<br/>
@@ -27,7 +28,7 @@ Majda Smole (O.Belgrade)<br/>
 Pedro Garcia (CENTRA-FCUL)<br/>
 Santiago González-Gaitán (CENTRA-IST)<br/>
 Thomas de Jaeger (U.Hawaii)<br/>
-Alejandro Yepes (U.Nacional-Colombia)<br/>
+
 
 ## Projects
 
