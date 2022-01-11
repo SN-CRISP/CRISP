@@ -27,6 +27,7 @@ Majda Smole (O.Belgrade)<br/>
 Pedro Garcia (CENTRA-FCUL)<br/>
 Santiago González-Gaitán (CENTRA-IST)<br/>
 Thomas de Jaeger (U.Hawaii)<br/>
+Alejandro Yepes (U.Nacional-Colombia)<br/>
 
 ## Projects
 
@@ -36,7 +37,7 @@ Recent studies have shown that type Ia supernova distance estimation improves wh
 ![Image](ARGAS.jpg)
 
 - **Impact of varying colour-luminosity relation in type Ia supernova cosmology (PI: T. de Jaeger, S. González-Gaitán)**:<br/>
-Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. [Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) submitted.
+Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. [Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) published.
 <p align="center">
 <img src="beta_color_value.jpg" alt="alt text" width=300 height=300>
 </p>
@@ -97,7 +98,7 @@ We are studying the evolution of the polarization of nearby SNe with linear imag
 - **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
 The narrow absortpion lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. 
 
-- **Evolution of dust reddening law towards SNe Ia**:<br/>
+- **Evolution of dust reddening law towards SNe Ia (PI: A. Yepes)**:<br/>
 We investigate if the dust reddening law, Rv, changes with phase of the evolution of type Ia supernovae. We use optical and near-infrared light-curves fitted with [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws across time. This will shed light on progenitors by constraining possible circumstellar material and dust properties towards SNe Ia.
 
 <p align="center">
