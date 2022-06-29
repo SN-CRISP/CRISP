@@ -38,7 +38,7 @@ Thomas de Jaeger (U.Hawaii)<br/>
 - **Dust attenuation slopes of DES galaxies (PI: J. Duarte)**:<br/>
 We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal.
 <p align="center">
-<img src="tau-n.jpg" alt="alt text" width=250 height=250>
+<img src="tau-n.jpg" alt="alt text" width=500 height=250>
 </p>
 
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
@@ -77,7 +77,7 @@ The narrow absorption lines found in SN spectra of all types reveal the slow mov
 We investigate if the dust reddening law, Rv, changes with phase of the evolution of type Ia supernovae. We use optical and near-infrared light-curves fitted with [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws across time. This will shed light on progenitors by constraining possible circumstellar material and dust properties towards SNe Ia.
 
 <p align="center">
-<img src="SNextinction.jpg" alt="alt text" width=600 height=400>
+<img src="EBVRVST.jpg.jpg" alt="alt text" width=300 height=200>
 </p>
 
 ### Impact of dust on cosmology
