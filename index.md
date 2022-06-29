@@ -35,17 +35,13 @@ Thomas de Jaeger (U.Hawaii)<br/>
 
 ### Dust from supernova environments
 
-- **ARGAS: Artifically Redshifting of Galaxies (PI: A. Paulina-Afonso)**: <br/>
-Studies have shown that type Ia supernova distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby integral field spectroscopy (IFS) galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in current and future SN surveys. [Paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) published.
-![Image](ARGAS.jpg)
-
 - **Dust attenuation slopes of DES galaxies (PI: J. Duarte)**:<br/>
 We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal.
 <p align="center">
-<img src="prosp.jpg" alt="alt text" width=250 height=250>
+<img src="tau-n.jpg" alt="alt text" width=250 height=250>
 </p>
 
-- **Dust attenuation slope maps of AMUSING galaxies **:<br/>
+- **Dust attenuation slope maps of AMUSING galaxies**:<br/>
 We will obtain maps of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
 
 - **Pilot project of polarimetric studies towards galaxies: the case of Circinus (PI: M. Stalevski, S. González-Gaitán)**:<br/>
@@ -85,6 +81,10 @@ We investigate if the dust reddening law, Rv, changes with phase of the evolutio
 </p>
 
 ### Impact of dust on cosmology
+
+- **ARGAS: Artifically Redshifting of Galaxies (PI: A. Paulina-Afonso)**: <br/>
+Studies have shown that type Ia supernova distance estimation improves when using an additional term related to the host galaxy mass. However, the bias and systematics of using a limited set of broad-band filters across a large redhift range has never been evaluated. With extensive simulations of nearby integral field spectroscopy (IFS) galaxies set at high redshifts, we study here the impact of effects like dimming, scaling and SED fitting in the mass-step used in cosmology for current and future SN surveys. [Paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) published.
+![Image](ARGAS.jpg)
 
 - **Impact of varying colour-luminosity relation in type Ia supernova cosmology (PI: T. de Jaeger, S. González-Gaitán)**:<br/>
 Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. [Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) published.
