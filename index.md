@@ -45,7 +45,7 @@ We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia f
 We will obtain maps of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
 
 - **Pilot project of polarimetric studies towards galaxies: the case of Circinus (PI: M. Stalevski, S. González-Gaitán)**:<br/>
-Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nucleus (AGN), taken with FORS2-VLT in multiple optical bands allows the study of the geometry and dust characteristics of the central object and its galaxy. 
+Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nucleus (AGN), taken with FORS2-VLT in multiple optical bands allows the study of the geometry and dust characteristics of the central object ([Paper I](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3496S/abstract)) and its galaxy. 
 
 <p align="center">
 <img src="Circinus.jpg" alt="alt text" width=300 height=250>
