@@ -22,11 +22,11 @@ João Duarte (CENTRA-IST)<br/>
 João Silvestre (CENTRA-IST)<br/>
 João Gonçalves (CENTRA-IST)<br/>
 Joe Anderson (ESO)<br/>
-Lluis Galbany (ICE-CSIC)<br/>
+[Lluis Galbany](https://lgalbany.github.io/) (ICE-CSIC)<br/>
 Marko Stalevski (O.Belgrade)<br/>
 Majda Smole (O.Belgrade)<br/>
 Pedro Garcia (CENTRA-FCUL)<br/>
-Saby Goswami (CENTRA-IST)<br/>
+[Saby Goswami](https://sabygoswami.github.io/) (CENTRA-IST)<br/>
 Santiago González-Gaitán (CENTRA-IST)<br/>
 Thomas de Jaeger (U.Hawaii)<br/>
 
