@@ -41,6 +41,9 @@ We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia f
 <img src="tau-n.jpg" alt="alt text" width=550 height=250>
 </p>
 
+- **Dust biases in extended environments (PI: J. Duarte)**:<br/>
+Complex star-dust geometries and orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. 
+
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
 We will obtain maps of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
 
