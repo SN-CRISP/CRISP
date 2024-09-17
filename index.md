@@ -50,7 +50,7 @@ Complex star-dust geometries and orientations have a significant effect on the o
 We will obtain maps of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
 
 - **Pilot project of polarimetric studies towards galaxies: the case of Circinus (PI: M. Stalevski, S. González-Gaitán)**:<br/>
-Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nucleus (AGN), taken with FORS2-VLT in multiple optical bands allows the study of the geometry and dust characteristics of the central object ([Paper I](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3496S/abstract)) and its galaxy. 
+Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nucleus (AGN), taken with FORS2-VLT in multiple optical bands allows the study of the geometry and dust characteristics of the central object ([Paper I](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3237S/abstract)) and its galaxy. 
 
 <p align="center">
 <img src="Circinus.jpg" alt="alt text" width=300 height=250>
@@ -73,7 +73,14 @@ We are obtaining the strength and velocity of interstellar lines like Na I D in 
 The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In ([Paper I](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=pubdate%3A%5B2024-01%20TO%202024-12%5D%20author%3A(%22%5Egonzalez-gaitan%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.  
 
 <p align="center">
-<img src="EWevol.jpg" alt="alt text" width=500 height=230>
+<img src="EWevol.jpg" alt="alt text" width=500 height=300>
+</p>
+
+- **Intrinsic colors of type Ia supernovae (PI: C. Corte-Real)**:<br/>
+In order to properly correct for dust reddening in the line of sight of supernvoae, we need to know their intrinsic colors. These might change with intrinsic properties like lightcurve width or ejecta velocity. In this study we use several machine learning tools to look for different populations of type Ia supernovae according to color evolution and infer their intrinsic colors. 
+
+<p align="center">
+<img src="pc1.png" alt="alt text" width=500 height=300>
 </p>
 
 - **Dust extinction laws of DES supernovae (PI: J. Gonçalves)**:<br/>
