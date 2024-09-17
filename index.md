@@ -42,7 +42,7 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 - [Systematic errors on optical-SED stellar-mass estimates for galaxies across cosmic time and their impact on cosmology](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) - **A. Paulino-Afonso et al.**
 - [The effects of varying colour-luminosity relations on Type Ia supernova science](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4656G/abstract) - **S. González-Gaitán, T. de Jaeger et al.**
 - [Tips and tricks in linear imaging polarimetry of extended sources with FORS2 at the VLT](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..70G/abstract) - **S. González-Gaitán, A. Mourão et al.**
-- [Spatial field reconstruction with INLA: application to IFU galaxy data](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.3880G/abstract) - S. González-Gaitán and COIN.
+- [Spatial field reconstruction with INLA: application to IFU galaxy data](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.3880G/abstract) - **S. González-Gaitán and COIN.**
 - [Spatial field reconstruction with INLA. Application to simulated galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.152S/abstract) - **M. Smole et al.**
 - [EmulART: Emulating Radiative Transfer -- A pilot study on autoencoder based dimensionality reduction for radiative transfer models](https://ui.adsabs.harvard.edu/abs/2022arXiv221015400R/abstract) - **J. Rino-Silvestre et al.**
 
