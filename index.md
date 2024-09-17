@@ -1,3 +1,6 @@
+&emsp; &emsp; &emsp; [Team and collaborators](#team-and-collaborators) &emsp; &emsp; &emsp; [Papers](#principal-papers) &emsp; &emsp; &emsp; [Projects](#projects) &emsp; &emsp; &emsp; [Meetings](#meetings)
+
+
 ## Welcome to CRISP
 
 CRISP is a multi-faceted project to study extinction towards supernovae (SNe) and their environments through a variety of observational techniques including photometry, integral field spectroscopy and polarimetry of both SNe and their hosts, as well as machine learning tools and radiative transfer modeling.
@@ -5,8 +8,6 @@ CRISP is a multi-faceted project to study extinction towards supernovae (SNe) an
 <p align="center">
 <img src="crisp_logo_cut.jpg" alt="alt text" width=300 height=200>
 </p>
-
-&emsp; &emsp; &emsp; [Team and collaborators](#team-and-collaborators) &emsp; &emsp; &emsp; [Papers](#principal-papers) &emsp; &emsp; &emsp; [Projects](#projects) &emsp; &emsp; &emsp; [Meetings](#meetings)
 
 
 ## Team and collaborators
