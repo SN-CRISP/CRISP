@@ -1,4 +1,4 @@
-&emsp; &emsp; &emsp; [Team and collaborators](#team-and-collaborators) &emsp; &emsp; &emsp; [Papers](#principal-papers) &emsp; &emsp; &emsp; [Projects](#projects) &emsp; &emsp; &emsp; [Meetings](#meetings)
+#&emsp; &emsp; &emsp; [Team and collaborators](#team-and-collaborators) &emsp; &emsp; &emsp; [Papers](#principal-papers) &emsp; &emsp; &emsp; [Projects](#projects) &emsp; &emsp; &emsp; [Meetings](#meetings)
 
 
 ## Welcome to CRISP
