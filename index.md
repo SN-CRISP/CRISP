@@ -155,6 +155,7 @@ Some previous meetings:
 - [CRISPinho 2020](https://amusing-muse.github.io/crispinho2020/)
 - [CRISP 2020](https://amusing-muse.github.io/crisp2020/)
 - [CRISP 2021](https://sn-crisp.github.io/CRISP2021/)
+- CRISPinho 2024
 
 ## Acknowledgement
 CRISP is funded by FCT (PTDC/FIS-AST-31546/2017).
