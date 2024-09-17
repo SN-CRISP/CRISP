@@ -73,7 +73,7 @@ We are obtaining the strength and velocity of interstellar lines like Na I D in 
 The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In ([Paper I](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=pubdate%3A%5B2024-01%20TO%202024-12%5D%20author%3A(%22%5Egonzalez-gaitan%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.  
 
 <p align="center">
-<img src="EWevol.jpg" alt="alt text" width=500 height=300>
+<img src="EWevol.jpg" alt="alt text" width=500 height=350>
 </p>
 
 - **Intrinsic colors of type Ia supernovae (PI: C. Corte-Real)**:<br/>
