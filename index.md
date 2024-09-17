@@ -9,15 +9,17 @@ CRISP is a multi-faceted project to study extinction towards supernovae (SNe) an
 
 ## Team and collaborators
 
-Alejandro Yepes (U.Nacional-Colombia)<br/>
-Alessandro Razza (U.Chile)<br/>
+Alejandro Yepes <br/>
+Alessandro Razza <br/>
 Ana Mourão (CENTRA-IST)<br/>
-Ana Paulina-Afonso (CENTRA-IST)<br/>
+Ana Paulina-Afonso (IA-Porto)<br/>
 Antonia Morales-Garaffolo (U.Cádiz)<br/>
 Alberto Krone-Martins (U.Cal-Irvine)<br/>
 Beatriz Pereira (CENTRA-IST)<br/>
-Claudia Gutiérrez (U.Turku)<br/>
+Caterina Corte-Real (CENTRA-IST)<br/>
+Claudia Gutiérrez (ICE-CSIC, Barcelona)<br/>
 [Francisco Förster](https://fforster.github.io/) (U.Chile)<br/>
+Gonçalo Martins (CENTRA-IST)<br/>
 João Duarte (CENTRA-IST)<br/>
 João Silvestre (CENTRA-IST)<br/>
 João Gonçalves (CENTRA-IST)<br/>
@@ -25,10 +27,10 @@ Joe Anderson (ESO)<br/>
 [Lluis Galbany](https://lgalbany.github.io/) (ICE-CSIC)<br/>
 Marko Stalevski (O.Belgrade)<br/>
 Majda Smole (O.Belgrade)<br/>
-Pedro Garcia (CENTRA-FCUL)<br/>
-[Saby Goswami](https://sabygoswami.github.io/) (CENTRA-IST)<br/>
+Pedro Garcia <br/>
+[Saby Goswami](https://sabygoswami.github.io/) (IAA-CSIC, Granada)<br/>
 Santiago González-Gaitán (CENTRA-IST)<br/>
-Thomas de Jaeger (U.Hawaii)<br/>
+Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 
 
 ## Projects
@@ -36,12 +38,12 @@ Thomas de Jaeger (U.Hawaii)<br/>
 ### Dust from supernova environments
 
 - **Dust attenuation slopes of high-z galaxies (PI: J. Duarte)**:<br/>
-We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal. [Paper](https://ui.adsabs.harvard.edu/abs/2022arXiv221114291D/abstract) submitted.
+We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal. [Paper](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) published.
 <p align="center">
 <img src="tau-n.jpg" alt="alt text" width=550 height=250>
 </p>
 
-- **Dust biases in extended environments (PI: J. Duarte)**:<br/>
+- **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
 Complex star-dust geometries and orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. 
 
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
@@ -67,14 +69,18 @@ We are obtaining the strength and velocity of interstellar lines like Na I D in 
 
 ### Dust from supernovae
 
+- **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
+The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In ([Paper I](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=pubdate%3A%5B2024-01%20TO%202024-12%5D%20author%3A(%22%5Egonzalez-gaitan%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.  
+
+<p align="center">
+<img src="EWevol.jpg" alt="alt text" width=500 height=230>
+</p>
+
 - **Dust extinction laws of DES supernovae (PI: J. Gonçalves)**:<br/>
 We are obtaining a set of dust extinction laws for a cosmological sample of SNe Ia light-curves from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)). We use [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws. The method is tested with simulations.
 
 - **Supernova polarization evolution (PI: A. Morales-Garoffolo)**:<br/>
 We are studying the evolution of the polarization of nearby SNe with linear imaging polarimetry with CAFOS-CAHA. Polarimetric studies reveal the asymmetries of SN explosions and provide a unique view of the interstellar and circumstellar material around them.
-
-- **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
-The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. 
 
 - **Evolution of dust reddening law towards SNe Ia (PI: A. Yepes)**:<br/>
 We investigate if the dust reddening law, Rv, changes with phase of the evolution of type Ia supernovae. We use optical and near-infrared light-curves fitted with [SNpy](https://csp.obs.carnegiescience.edu/data/snpy) to constrain reddening laws across time. This will shed light on progenitors by constraining possible circumstellar material and dust properties towards SNe Ia.
