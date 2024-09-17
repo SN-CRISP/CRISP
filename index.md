@@ -6,7 +6,7 @@ CRISP is a multi-faceted project to study extinction towards supernovae (SNe) an
 <img src="crisp_logo_cut.jpg" alt="alt text" width=300 height=200>
 </p>
 
-[Team and collaborators](#Team)        [Projects](#Projects)
+[Team and collaborators](#team)                        [Projects](#projects)
 
 ## Team and collaborators
 
