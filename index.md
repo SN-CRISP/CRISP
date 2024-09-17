@@ -6,7 +6,8 @@ CRISP is a multi-faceted project to study extinction towards supernovae (SNe) an
 <img src="crisp_logo_cut.jpg" alt="alt text" width=300 height=200>
 </p>
 
-[Team and collaborators](#team)                        [Projects](#projects)
+<pre>[Team and collaborators](#team-and-collaborators)           [Papers](#principal-papers)           [Projects](#projects) </pre>
+
 
 ## Team and collaborators
 
@@ -32,6 +33,18 @@ Pedro Garcia <br/>
 [Saby Goswami](https://sabygoswami.github.io/) (IAA-CSIC, Granada)<br/>
 Santiago González-Gaitán (CENTRA-IST)<br/>
 Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
+
+## Principal papers
+- [A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) - J. Duarte et al.
+- [Dissecting the active galactic nucleus in Circinus - III. VLT/FORS2 polarimetry confirms dusty cone illuminated by a tilted accretion disc](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3237S/abstract) - M. Stalevski, S. González-Gaitán et al.
+- [Narrow absorption lines from intervening material in supernovae. I. Measurements and temporal evolution](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) - S. González-Gaitán,C. Gutiérrez et al.
+- [Systematic errors on optical-SED stellar-mass estimates for galaxies across cosmic time and their impact on cosmology](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) - A. Paulino-Afonso et al.
+- [The effects of varying colour-luminosity relations on Type Ia supernova science](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4656G/abstract) - S. González-Gaitán, T. de Jaeger et al.
+- [Spatial field reconstruction with INLA: application to IFU galaxy data](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.3880G/abstract) - S. González-Gaitán and COIN.
+- [Spatial field reconstruction with INLA. Application to simulated galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.152S/abstract) - M. Smole et al.
+- [EmulART: Emulating Radiative Transfer -- A pilot study on autoencoder based dimensionality reduction for radiative transfer models]
+(https://ui.adsabs.harvard.edu/abs/2022arXiv221015400R/abstract) - J. Rino-Silvestre et al.
+
 
 
 ## Projects
@@ -71,7 +84,7 @@ We are obtaining the strength and velocity of interstellar lines like Na I D in 
 ### Dust from supernovae
 
 - **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
-The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In ([Paper I](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=pubdate%3A%5B2024-01%20TO%202024-12%5D%20author%3A(%22%5Egonzalez-gaitan%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.  
+The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In ([Paper I](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract)) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.  
 
 <p align="center">
 <img src="EWevol.jpg" alt="alt text" width=500 height=350>
