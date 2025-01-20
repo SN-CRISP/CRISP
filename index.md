@@ -32,7 +32,7 @@ Marko Stalevski (O.Belgrade)<br/>
 Majda Smole (O.Belgrade)<br/>
 Pedro Garcia <br/>
 [Saby Goswami](https://sabygoswami.github.io/) (IAA-CSIC, Granada)<br/>
-Santiago González-Gaitán (CENTRA-IST)<br/>
+Santiago González-Gaitán (IA-U.Lisboa)<br/>
 Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 
 ## Principal papers
