@@ -57,15 +57,15 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 - **Dust attenuation slopes of high-z galaxies (PI: J. Duarte)**:<br/>
 We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal. [Paper](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) published.
 <p align="center">
-<img src="duarte23_1.png" alt="alt text" width=550 height=250>
-<img src="duarte23_2.png" alt="alt text" width=550 height=250>
+<img src="duarte23_1.png" alt="alt text" width=225 height=125>
+<img src="duarte23_2.png" alt="alt text" width=225 height=125>
 </p>
 
 - **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
 Complex star-dust geometries and orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters.
 
 <p align="center">
-<img src="DES_comp.pdf" alt="alt text" width=300 height=250>
+<img src="DES_comp.jpg" alt="alt text" width=300 height=250>
 </p>
 
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
