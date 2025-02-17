@@ -127,7 +127,7 @@ Studies have shown that type Ia supernova distance estimation improves when usin
 - **Impact of varying colour-luminosity relation in type Ia supernova cosmology (PI: T. de Jaeger, S. González-Gaitán)**:<br/>
 Type Ia SN cosmology has been essential in determining the accelerated expansion of the universe. However, the standardization of their luminosity to measure distances relies on a color-luminosity calibration that generally assumes a constant factor throughout the SN Ia population. We investigate in this project the effect of letting this parameter vary. [Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200913230G/abstract) published.
 <p align="center">
-<img src="beta_cosmorv.png" alt="alt text" width=300 height=300>
+<img src="beta_cosmorv.png" alt="alt text" width=600 height=300>
 </p>
 
 
