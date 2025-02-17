@@ -24,7 +24,7 @@ Claudia Gutiérrez (ICE-CSIC, Barcelona)<br/>
 [Francisco Förster](https://fforster.github.io/) (U.Chile)<br/>
 Gonçalo Martins (CENTRA-IST)<br/>
 João Duarte (CENTRA-IST)<br/>
-João Silvestre (CENTRA-IST)<br/>
+João Rino-Silvestre (CENTRA-IST)<br/>
 João Gonçalves (CENTRA-IST)<br/>
 Joe Anderson (ESO)<br/>
 [Lluis Galbany](https://lgalbany.github.io/) (ICE-CSIC)<br/>
@@ -57,8 +57,8 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 - **Dust attenuation slopes of high-z galaxies (PI: J. Duarte)**:<br/>
 We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal. [Paper](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) published.
 <p align="center">
-<img src="duarte23_1.png" alt="alt text" width=265 height=195>
-<img src="duarte23_2.png" alt="alt text" width=265 height=195>
+<img src="duarte23_1.png" alt="alt text" width=300 height=220>
+<img src="duarte23_2.png" alt="alt text" width=300 height=220>
 </p>
 
 - **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
@@ -78,7 +78,7 @@ Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nu
 <img src="Circinus.jpg" alt="alt text" width=300 height=250>
 </p>
 
-- **Polarimetric studies towards galaxies (PI: J. Silvestre)**:<br/>
+- **Polarimetric studies towards galaxies (PI: J. Rino-Silvestre)**:<br/>
 The statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT provides nearby galaxy maps of various physical characteristics of the dust. The data is compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html). A comparison of Rv values obtained at the SN position from Serkowski fits to BVRI polarimetry with estimates directly from the SN light-curves yield significant differences (see submitted [Paper](https://arxiv.org/abs/2502.09875)).
 
 <p align="center">
