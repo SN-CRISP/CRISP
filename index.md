@@ -77,7 +77,7 @@ Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nu
 The statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT provides nearby galaxy maps of various physical characteristics of the dust. The data is compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html). A comparison of Rv values obtained at the SN position from Serkowski fits to BVRI polarimetry with estimates directly from the SN light-curves yield significant differences (see submitted [Paper](https://arxiv.org/abs/2502.09875)).
 
 <p align="center">
-<img src="RvpolxLC.png" alt="alt text" width=500 height=230>
+<img src="RvpolxLC.png" alt="alt text" width=300 height=250>
 </p>
 
 - **Interstellar lines in IFU spectra (PI: S. Goswami)**:<br/>
