@@ -64,7 +64,7 @@ We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia f
 Complex star-dust geometries and orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters.
 
 <p align="center">
-<img src="DEScomp.pdf" alt="alt text" width=300 height=250>
+<img src="DES_comp.pdf" alt="alt text" width=300 height=250>
 </p>
 
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
