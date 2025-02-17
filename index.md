@@ -61,7 +61,11 @@ We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia f
 </p>
 
 - **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
-Complex star-dust geometries and orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. 
+Complex star-dust geometries and orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters.
+
+<p align="center">
+<img src="DEScomp.pdf" alt="alt text" width=300 height=250>
+</p>
 
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
 We will obtain maps of dust attenuation slopes across nearby galaxies observed with Integral Fiel Spectroscopy (IFS) from the [AMUSING](https://amusing-muse.github.io/) survey. Spectra are complemented with optical, UV and NIR broad-band photometry. The method uses the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis and is being tested with large simulations.
@@ -77,7 +81,7 @@ Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nu
 The statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT provides nearby galaxy maps of various physical characteristics of the dust. The data is compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html). A comparison of Rv values obtained at the SN position from Serkowski fits to BVRI polarimetry with estimates directly from the SN light-curves yield significant differences (see submitted [Paper](https://arxiv.org/abs/2502.09875)).
 
 <p align="center">
-<img src="RvpolxLC.png" alt="alt text" width=300 height=250>
+<img src="RvpolxLC.png" alt="alt text" width=450 height=375>
 </p>
 
 - **Interstellar lines in IFU spectra (PI: S. Goswami)**:<br/>
