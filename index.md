@@ -57,7 +57,8 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 - **Dust attenuation slopes of high-z galaxies (PI: J. Duarte)**:<br/>
 We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal. [Paper](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) published.
 <p align="center">
-<img src="tau-n.jpg" alt="alt text" width=550 height=250>
+<img src="duarte23_1.png" alt="alt text" width=550 height=250>
+<img src="duarte23_2.png" alt="alt text" width=550 height=250>
 </p>
 
 - **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
