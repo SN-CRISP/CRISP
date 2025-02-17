@@ -31,11 +31,13 @@ Joe Anderson (ESO)<br/>
 Marko Stalevski (O.Belgrade)<br/>
 Majda Smole (O.Belgrade)<br/>
 Pedro Garcia <br/>
+Rita Santos (CENTRA-ESO) <br/>
 [Saby Goswami](https://sabygoswami.github.io/) (IAA-CSIC, Granada)<br/>
 Santiago González-Gaitán (IA-U.Lisboa)<br/>
 Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 
 ## Principal papers
+- [RV from multi-waveband galaxy polarimetry in supernovae vicinity](https://arxiv.org/abs/2502.09875) - **J. Rino-Silvestre et al.**
 - [A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) - **J. Duarte et al.**
 - [Dissecting the active galactic nucleus in Circinus - III. VLT/FORS2 polarimetry confirms dusty cone illuminated by a tilted accretion disc](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3237S/abstract) - **M. Stalevski, S. González-Gaitán et al.**
 - [Narrow absorption lines from intervening material in supernovae. I. Measurements and temporal evolution](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) - **S. González-Gaitán, C. Gutiérrez et al.**
