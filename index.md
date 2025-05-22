@@ -94,15 +94,12 @@ We are obtaining the strength and velocity of interstellar lines like Na I D in 
 
 - **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
 The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In ([Paper I](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract)) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.  
-
 <p align="center">
 <img src="EWevol.jpg" alt="alt text" width=500 height=350>
 </p>
-
 In ([Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract)) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
-
 <p align="center">
-<img src="EWoffset.png" alt="alt text" width=500 height=350>
+<img src="EWoffset.png" alt="alt text" width=800 height=350>
 </p>
 
 - **Intrinsic colors of type Ia supernovae (PI: C. Corte-Real)**:<br/>
@@ -150,6 +147,10 @@ The next step of the INLA spatial fitting applied to galaxy IFS is to simulateno
 
 - **Optimization of radiative transfer codes (PI: M. Smole, J. Silvestre)**:
 Monte Carlo radiative transfer (MCRT) codes like [SKIRT](https://skirt.ugent.be/root/_landing.html) simulate the observed distribution of light as a function of wavelength given an initial geometry and dust composition; but this is computationally expensive. We are using the [INLA](https://www.r-inla.org/) methodology and dimensionality reduction (PCA, NMF, autoencoders) to boost MCRT modeling of Active Galactic Nuclei (AGN) and AURIGA galaxies requiring less initial photons and less compuational time. [Paper I](https://ui.adsabs.harvard.edu/abs/2022arXiv221102602S/abstract) focuses on galaxies with PCA/NMF and INLA, [Paper II](https://ui.adsabs.harvard.edu/abs/2022arXiv221015400R/abstract) on spherical geometries with variatonal autoencoders (see also: [EmulART](https://github.com/SN-CRISP/EmulART)). 
+
+<p align="center">
+<img src="emulart_smole.png" alt="alt text" width=900 height=200>
+</p>
 
 - **Instrumental field polarization of FORS2-VLT (PI: S. González-Gaitán, A Mourão)**:<br/>
 Extended imaging polarization studies requires a full characterization of the instrument which is known to produce spurious polarization patterns. We study the instrumental field polarization of the FORS2 instrument at VLT finding a radial polarization across the CCD. [Paper](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..70G/abstract) published and [implementation](https://github.com/gongsale/FORS2-INSTPOL). 
