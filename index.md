@@ -149,7 +149,7 @@ The next step of the INLA spatial fitting applied to galaxy IFS is to simulateno
 Monte Carlo radiative transfer (MCRT) codes like [SKIRT](https://skirt.ugent.be/root/_landing.html) simulate the observed distribution of light as a function of wavelength given an initial geometry and dust composition; but this is computationally expensive. We are using the [INLA](https://www.r-inla.org/) methodology and dimensionality reduction (PCA, NMF, autoencoders) to boost MCRT modeling of Active Galactic Nuclei (AGN) and AURIGA galaxies requiring less initial photons and less compuational time. [Paper I](https://ui.adsabs.harvard.edu/abs/2022arXiv221102602S/abstract) focuses on galaxies with PCA/NMF and INLA, [Paper II](https://ui.adsabs.harvard.edu/abs/2022arXiv221015400R/abstract) on spherical geometries with variatonal autoencoders (see also: [EmulART](https://github.com/SN-CRISP/EmulART)). 
 
 <p align="center">
-<img src="emulart_smole.png" alt="alt text" width=900 height=200>
+<img src="emulart_smole.png" alt="alt text" width=900 height=300>
 </p>
 
 - **Instrumental field polarization of FORS2-VLT (PI: S. González-Gaitán, A Mourão)**:<br/>
