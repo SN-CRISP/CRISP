@@ -38,6 +38,8 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 
 ## Principal papers
 - [RV from multi-waveband galaxy polarimetry in supernovae vicinity](https://arxiv.org/abs/2502.09875) - **J. Rino-Silvestre et al.**
+- [Assessing differences between local galaxy dust attenuation and point source extinction within the same environments
+](https://ui.adsabs.harvard.edu/abs/2025arXiv250304906D/abstract) - **J. Duarte et al.**
 - [A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) - **J. Duarte et al.**
 - [Narrow absorption lines from intervening material in supernovae. II. Galaxy proerties](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract) - **S. González-Gaitán, C. Gutiérrez et al.**
 - [Narrow absorption lines from intervening material in supernovae. I. Measurements and temporal evolution](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) - **S. González-Gaitán, C. Gutiérrez et al.**
@@ -99,7 +101,8 @@ The narrow absorption lines found in SN spectra of all types reveal the slow mov
 <img src="EWevol.jpg" alt="alt text" width=450 height=350>
 </p>
 
-<ul>In [Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.</ul>
+<ul>
+In [Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.</ul>
 
 <p align="center">
 <img src="EWoffset.png" alt="alt text" width=800 height=350>
