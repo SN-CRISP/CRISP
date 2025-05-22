@@ -101,6 +101,10 @@ The narrow absorption lines found in SN spectra of all types reveal the slow mov
 
 In ([Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract)) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
 
+<p align="center">
+<img src="EWoffset.png" alt="alt text" width=500 height=350>
+</p>
+
 - **Intrinsic colors of type Ia supernovae (PI: C. Corte-Real)**:<br/>
 In order to properly correct for dust reddening in the line of sight of supernvoae, we need to know their intrinsic colors. These might change with intrinsic properties like lightcurve width or ejecta velocity. In this study we use several machine learning tools to look for different populations of type Ia supernovae according to color evolution and infer their intrinsic colors. 
 
@@ -153,7 +157,7 @@ Extended imaging polarization studies requires a full characterization of the in
 ![Image](instpol.jpg)
 
 - **Moon polarization patterns in the Sky (PI: B. Pereira)**:<br/>
-The scattering from the Moon in the sky produces a polarization pattern that needs to be corrected for when performing polarimetric observations in the night. We are investigating the observed pattern taken with FORS2-VLT data compared with single scattering and multiple scattering models.
+The scattering from the Moon in the sky produces a polarization pattern that needs to be corrected for when performing polarimetric observations in the night. We investigate the observed pattern taken with FORS2-VLT data compared with single Rayleigh and Mie scattering and multiple scattering models.
 
 <p align="center">
 <img src="moonpol.jpg" alt="alt text" width=450 height=300>
@@ -169,4 +173,4 @@ Some previous meetings:
 - CRISPinho 2024
 
 ## Acknowledgement
-CRISP is funded by FCT (PTDC/FIS-AST-31546/2017).
+CRISP was funded during 2018-2022 by FCT (PTDC/FIS-AST-31546/2017, PI: Mourao).
