@@ -99,7 +99,7 @@ The narrow absorption lines found in SN spectra of all types reveal the slow mov
 <img src="EWevol.jpg" alt="alt text" width=450 height=350>
 </p>
 
-> In ([Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract)) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
+<ul>In ([Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract)) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.</ul>
 
 <p align="center">
 <img src="EWoffset.png" alt="alt text" width=800 height=350>
@@ -164,7 +164,7 @@ Extended imaging polarization studies requires a full characterization of the in
 The scattering from the Moon in the sky produces a polarization pattern that needs to be corrected for when performing polarimetric observations in the night. We investigate the observed pattern taken with FORS2-VLT data compared with single Rayleigh and Mie scattering and multiple scattering models.
 
 <p align="center">
-<img src="moonscatt.png" alt="alt text" width=500 height=300>
+<img src="moonscatt.png" alt="alt text" width=700 height=250>
 </p>
 
 
