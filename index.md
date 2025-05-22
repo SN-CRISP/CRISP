@@ -44,9 +44,9 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 - [Narrow absorption lines from intervening material in supernovae. I. Measurements and temporal evolution](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) - **S. González-Gaitán, C. Gutiérrez et al. 2024**
 - [A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) - **J. Duarte et al 2023.**
 - [Dissecting the active galactic nucleus in Circinus - III. VLT/FORS2 polarimetry confirms dusty cone illuminated by a tilted accretion disc](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3237S/abstract) - **M. Stalevski, S. González-Gaitán et al. 2023**
-- [Systematic errors on optical-SED stellar-mass estimates for galaxies across cosmic time and their impact on cosmology](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) - **A. Paulino-Afonso et al. 2023**
 - [Spatial field reconstruction with INLA. Application to simulated galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.152S/abstract) - **M. Smole et al. 2023**
 - [EmulART: Emulating Radiative Transfer -- A pilot study on autoencoder based dimensionality reduction for radiative transfer models](https://ui.adsabs.harvard.edu/abs/2022arXiv221015400R/abstract) - **J. Rino-Silvestre et al. 2023**
+- [Systematic errors on optical-SED stellar-mass estimates for galaxies across cosmic time and their impact on cosmology](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) - **A. Paulino-Afonso et al. 2022**
 - [The effects of varying colour-luminosity relations on Type Ia supernova science](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4656G/abstract) - **S. González-Gaitán, T. de Jaeger et al. 2021**
 - [Tips and tricks in linear imaging polarimetry of extended sources with FORS2 at the VLT](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..70G/abstract) - **S. González-Gaitán, A. Mourão et al. 2020**
 - [Spatial field reconstruction with INLA: application to IFU galaxy data](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.3880G/abstract) - **S. González-Gaitán and COIN 2019.**
@@ -69,7 +69,7 @@ Complex star-dust geometries and observing orientations have a significant effec
 We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal. [Paper](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) published.
 <p align="center">
 <img src="duarte23_1.png" alt="alt text" width=300 height=220>
-<img src="duarte23_2.png" alt="alt text" width=300 height=220>
+<img src="duarte23_2.png" alt="alt text" width=325 height=220>
 </p>
 
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
@@ -170,7 +170,7 @@ Extended imaging polarization studies requires a full characterization of the in
 The scattering from the Moon in the sky produces a polarization pattern that needs to be corrected for when performing polarimetric observations in the night. We investigate the observed pattern taken with FORS2-VLT data compared with single Rayleigh and Mie scattering and multiple scattering models.
 
 <p align="center">
-<img src="moonscatt.png" alt="alt text" width=700 height=300>
+<img src="moonscatt.png" alt="alt text" width=750 height=300>
 </p>
 
 
