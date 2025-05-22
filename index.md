@@ -1,7 +1,7 @@
 &emsp; &emsp; &emsp; [**Team and collaborators**](#team-and-collaborators) &emsp; &emsp; &emsp; [**Papers**](#principal-papers) &emsp; &emsp; &emsp; [**Projects**](#projects) &emsp; &emsp; &emsp; [**Meetings**](#meetings)
 
 
-## Welcome to CRISP
+## Welcome to CRISP: Correcting Reddening Intelligently for Supernova Probes
 
 CRISP is a multi-faceted project to study extinction towards supernovae (SNe) and their environments through a variety of observational techniques including photometry, integral field spectroscopy and polarimetry of both SNe and their hosts, as well as machine learning tools and radiative transfer modeling.
 
@@ -39,8 +39,9 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 ## Principal papers
 - [RV from multi-waveband galaxy polarimetry in supernovae vicinity](https://arxiv.org/abs/2502.09875) - **J. Rino-Silvestre et al.**
 - [A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) - **J. Duarte et al.**
-- [Dissecting the active galactic nucleus in Circinus - III. VLT/FORS2 polarimetry confirms dusty cone illuminated by a tilted accretion disc](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3237S/abstract) - **M. Stalevski, S. González-Gaitán et al.**
+- [Narrow absorption lines from intervening material in supernovae. II. Galaxy proerties](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract) - **S. González-Gaitán, C. Gutiérrez et al.**
 - [Narrow absorption lines from intervening material in supernovae. I. Measurements and temporal evolution](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) - **S. González-Gaitán, C. Gutiérrez et al.**
+- [Dissecting the active galactic nucleus in Circinus - III. VLT/FORS2 polarimetry confirms dusty cone illuminated by a tilted accretion disc](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3237S/abstract) - **M. Stalevski, S. González-Gaitán et al.**
 - [Systematic errors on optical-SED stellar-mass estimates for galaxies across cosmic time and their impact on cosmology](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) - **A. Paulino-Afonso et al.**
 - [The effects of varying colour-luminosity relations on Type Ia supernova science](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4656G/abstract) - **S. González-Gaitán, T. de Jaeger et al.**
 - [Tips and tricks in linear imaging polarimetry of extended sources with FORS2 at the VLT](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..70G/abstract) - **S. González-Gaitán, A. Mourão et al.**
@@ -54,18 +55,18 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 
 ### Dust from supernova environments
 
+- **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
+Complex star-dust geometries and observing orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. [Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250304906D/abstract) submitted.
+
+<p align="center">
+<img src="DES_comp.jpg" alt="alt text" width=400 height=330>
+</p>
+
 - **Dust attenuation slopes of high-z galaxies (PI: J. Duarte)**:<br/>
 We obtain a set of dust attenuation slopes for a cosmological sample of SNe Ia from their host galaxies with broad-band photometry from the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/)) complemented with available GALEX UV photometry and 2MASS NIR when available. We use the SED fitter [prospector](https://prospect.readthedocs.io/en/latest/) and [FSPS](https://dfm.io/python-fsps/current/) population synthesis code. The method is tested with simulations. We find a two-dimensional dust step that is similar in magnitude and significance to the mass-step but not equal. [Paper](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) published.
 <p align="center">
 <img src="duarte23_1.png" alt="alt text" width=300 height=220>
 <img src="duarte23_2.png" alt="alt text" width=300 height=220>
-</p>
-
-- **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
-Complex star-dust geometries and orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters.
-
-<p align="center">
-<img src="DES_comp.jpg" alt="alt text" width=400 height=330>
 </p>
 
 - **Dust attenuation slope maps of AMUSING galaxies**:<br/>
@@ -97,6 +98,8 @@ The narrow absorption lines found in SN spectra of all types reveal the slow mov
 <p align="center">
 <img src="EWevol.jpg" alt="alt text" width=500 height=350>
 </p>
+
+In ([Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract)) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
 
 - **Intrinsic colors of type Ia supernovae (PI: C. Corte-Real)**:<br/>
 In order to properly correct for dust reddening in the line of sight of supernvoae, we need to know their intrinsic colors. These might change with intrinsic properties like lightcurve width or ejecta velocity. In this study we use several machine learning tools to look for different populations of type Ia supernovae according to color evolution and infer their intrinsic colors. 
