@@ -59,7 +59,7 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 ### Dust from supernova environments
 
 - **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
-Complex star-dust geometries and observing orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. [Paper](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.169D/abstract) pblished.
+Complex star-dust geometries and observing orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. [Paper](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.169D/abstract) published.
 
 <p align="center">
 <img src="DES_comp.jpg" alt="alt text" width=400 height=330>
