@@ -39,8 +39,8 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 ## Principal papers
 - [RV from multi-waveband galaxy polarimetry in supernovae vicinity](https://arxiv.org/abs/2502.09875) - **J. Rino-Silvestre et al. 2025**
 - [Assessing differences between local galaxy dust attenuation and point source extinction within the same environments
-](https://ui.adsabs.harvard.edu/abs/2025arXiv250304906D/abstract) - **J. Duarte et al 2025.**
-- [Narrow absorption lines from intervening material in supernovae. II. Galaxy proerties](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract) - **S. González-Gaitán, C. Gutiérrez et al. 2025**
+](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.169D/abstract) - **J. Duarte et al 2025.**
+- [Narrow absorption lines from intervening material in supernovae. II. Galaxy proerties](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.119G/abstract) - **S. González-Gaitán, C. Gutiérrez et al. 2025**
 - [Narrow absorption lines from intervening material in supernovae. I. Measurements and temporal evolution](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) - **S. González-Gaitán, C. Gutiérrez et al. 2024**
 - [A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..56D/abstract) - **J. Duarte et al 2023.**
 - [Dissecting the active galactic nucleus in Circinus - III. VLT/FORS2 polarimetry confirms dusty cone illuminated by a tilted accretion disc](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3237S/abstract) - **M. Stalevski, S. González-Gaitán et al. 2023**
@@ -59,7 +59,7 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 ### Dust from supernova environments
 
 - **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
-Complex star-dust geometries and observing orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. [Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250304906D/abstract) submitted.
+Complex star-dust geometries and observing orientations have a significant effect on the obtention of attenuation optical depth and attenuation curves. By simulating dusty galaxies at different orientations with Monte Carlo radiative transfer modeling with [SKIRT](https://skirt.ugent.be/root/_landing.html), we examine the effect on the fitted dust parameters. [Paper](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.169D/abstract) pblished.
 
 <p align="center">
 <img src="DES_comp.jpg" alt="alt text" width=400 height=330>
@@ -83,7 +83,7 @@ Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nu
 </p>
 
 - **Polarimetric studies towards galaxies (PI: J. Rino-Silvestre)**:<br/>
-The statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT provides nearby galaxy maps of various physical characteristics of the dust. The data is compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html). A comparison of Rv values obtained at the SN position from Serkowski fits to BVRI polarimetry with estimates directly from the SN light-curves yield significant differences (see submitted [Paper](https://arxiv.org/abs/2502.09875)).
+The statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT provides nearby galaxy maps of various physical characteristics of the dust. The data is compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html). A comparison of Rv values obtained at the SN position from Serkowski fits to BVRI polarimetry with estimates directly from the SN light-curves yield significant differences (see accepted [Paper](https://arxiv.org/abs/2502.09875)).
 
 <p align="center">
 <img src="RvpolxLC.png" alt="alt text" width=450 height=375>
@@ -104,7 +104,7 @@ The narrow absorption lines found in SN spectra of all types reveal the slow mov
 
 <ul>
   
-In [Paper II](https://ui.adsabs.harvard.edu/abs/2025arXiv250307233G/abstract) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
+In [Paper II](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.119G/abstract) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
 </ul>
 
 <p align="center">
