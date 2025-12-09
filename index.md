@@ -57,6 +57,9 @@ Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 
 ## Projects
 
+&emsp; &emsp; &emsp; [**Environments**](#dust-from-supernova-environments) &emsp; &emsp; &emsp; [**SNe**](#dust-from-supernovae) &emsp; &emsp; &emsp; [**Cosmo**](#impact-of-dust-on-cosmology) &emsp; &emsp; &emsp; [**Methods**](#methods)
+
+
 ### Dust from supernova environments
 
 - **Dust biases in galaxy environments (PI: J. Duarte)**:<br/>
