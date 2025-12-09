@@ -104,6 +104,7 @@ The narrow absorption lines found in SN spectra of all types reveal the slow mov
 </p>
 
 <ul>
+  
 In [Paper II](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.119G/abstract) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
 </ul>
 
