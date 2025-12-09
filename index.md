@@ -33,11 +33,12 @@ Majda Smole (O.Belgrade)<br/>
 Pedro Garcia <br/>
 Rita Santos (CENTRA-ESO) <br/>
 [Saby Goswami](https://sabygoswami.github.io/) (IAA-CSIC, Granada)<br/>
-Santiago González-Gaitán (IA-U.Lisboa)<br/>
+Santiago González-Gaitán (PI, IA-U.Lisboa)<br/>
 Thomas de Jaeger (CNRS/LPNHE/Sorbonne)<br/>
 
 ## Principal papers
-- [RV from multi-waveband galaxy polarimetry in supernovae vicinity](https://arxiv.org/abs/2502.09875) - **J. Rino-Silvestre et al. 2025**
+- [On the impact of the supernova subsamples in reducing the Hubble tension](https://ui.adsabs.harvard.edu/abs/2025arXiv251114332M/abstract) - **G. Martins et al. 2025**
+- [RV from multi-waveband galaxy polarimetry in supernovae vicinity](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.170R/abstract) - **J. Rino-Silvestre et al. 2025**
 - [Assessing differences between local galaxy dust attenuation and point source extinction within the same environments
 ](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.169D/abstract) - **J. Duarte et al 2025.**
 - [Narrow absorption lines from intervening material in supernovae. II. Galaxy proerties](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.119G/abstract) - **S. González-Gaitán, C. Gutiérrez et al. 2025**
@@ -83,7 +84,7 @@ Imaging polarimetry of the nearby Circinus galaxy, host of an Active Galactic Nu
 </p>
 
 - **Polarimetric studies towards galaxies (PI: J. Rino-Silvestre)**:<br/>
-The statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT provides nearby galaxy maps of various physical characteristics of the dust. The data is compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html). A comparison of Rv values obtained at the SN position from Serkowski fits to BVRI polarimetry with estimates directly from the SN light-curves yield significant differences (see accepted [Paper](https://arxiv.org/abs/2502.09875)).
+The statistical study of multi-band imaging polarimetry with optical data from FORS2-VLT provides nearby galaxy maps of various physical characteristics of the dust. The data is compared with Monte Carlo radiative transfer simulations with the code [SKIRT](https://skirt.ugent.be/root/_landing.html). A comparison of Rv values obtained at the SN position from Serkowski fits to BVRI polarimetry with estimates directly from the SN light-curves yield significant differences (see accepted [Paper](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.170R/abstract)).
 
 <p align="center">
 <img src="RvpolxLC.png" alt="alt text" width=450 height=375>
