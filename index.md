@@ -97,10 +97,12 @@ We are obtaining the strength and velocity of interstellar lines like Na I D in 
 ### Dust from supernovae
 
 - **Narrow absorption lines in supernovae (PI: C. Gutiérrez, S. González-Gaitán)**:<br/>
-The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In [Paper I](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.  
+The narrow absorption lines found in SN spectra of all types reveal the slow moving material in the line of sight towards SNe. We are investigating the frequency, strength, evolution and velocity of several species like Na I D, Ca II H & K, K I and diffuse interstellar bands for an unprecedented large sample of supernova spectra. In [Paper I](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.108G/abstract) we develop a new robust methodology to measure narrow lines which demonstrates that there is a substantial bias from the P-Cygni profile of the supernova in low-resolution spectra. We show that statistically there is little evolution in the strength of the sodium lines for various supernova types.
+
 <p align="center">
 <img src="EWevol.jpg" alt="alt text" width=450 height=350>
 </p>
+
 <ul>
 In [Paper II](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.119G/abstract) we compare the strengh of the absorption lines from supernova spectra with local and global galaxy properties. We find that the lines are statistically good tracers of the interstellar medium: their strength declines exponentially with galactocentric distance and follows a power-law with local star formation rate and stellar mass.
 </ul>
