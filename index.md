@@ -137,7 +137,7 @@ We investigate if the dust reddening law, Rv, changes with phase of the evolutio
 - **The impact of subsamples in reducing the Hubble tension (PI: G. Martins)**: <br/>
 The persistent 4-6 σ difference between early- and late-time measurements of the Hubble constant (H0) is known as the "Hubble tension". By randomly selecting subsamples of the calibration and Hubble flow samples that are more representative of each other, both in SN properties and environmental characteristics, we find differences in H0, particularly when the sample is divided by light-curve width (2-3σ discrepancy in H0).  [Paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..86P/abstract) submitted.
 <p align="center">
-<img src="H0.jpg" alt="alt text" width=600 height=300>
+<img src="H0.png" alt="alt text" width=600 height=300>
 </p>
 
 
